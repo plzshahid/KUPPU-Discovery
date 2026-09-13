@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/plzshahid/KUPPU-Discovery/releases/download/v1.7.0/KUPPU.apk",
-  "updateMessage": "KUPPU v1.7.0 ❤️\n\n🎙️ Voice messages\n▶️ Voice playback\n🟢 Online / Last Seen\n✓✓ Delivered / Seen\n❤️ Message reactions\n↩️ Reply\n🗑️ Delete messages\n🔔 FCM notifications\n⚡ Performance improvements\n🐛 Bug fixes"
+  "versionCode": 7,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/plzshahid/KUPPU-Discovery/releases/download/v1.8.0/KUPPU.apk",
+  "updateMessage": "KUPPU v1.8.0 ❤️\n\n🖼️ WebSocket image sharing\n📸 Camera & Gallery image sending\n⚡ Performance improvements\n🔔 Notification improvements\n✨ UI improvements\n🐛 Bug fixes"
 }
