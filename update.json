@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/plzshahid/KUPPU-Discovery/releases/download/v1.8.0/KUPPU.apk",
-  "updateMessage": "KUPPU v1.8.0 ❤️\n\n🖼️ WebSocket image sharing\n📸 Camera & Gallery image sending\n⚡ Performance improvements\n🔔 Notification improvements\n✨ UI improvements\n🐛 Bug fixes"
+  "versionCode": 8,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/plzshahid/KUPPU-Discovery/releases/download/v1.9.0/KUPPU.apk",
+  "updateMessage": "KUPPU v1.9.0 ❤️\n\n🔔 Notification privacy improvements\n🐛 Bug fixes\n✨ UI improvements"
 }
