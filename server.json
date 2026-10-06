@@ -1,4 +1,4 @@
 {
-  "online": false,
-  "server_url": ""
+  "online": true,
+  "server_url": "https://infrastructure-applicants-mill-counts.trycloudflare.com"
 }
