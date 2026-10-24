@@ -1,4 +1,4 @@
 {
-  "online": false,
-  "server_url": ""
+  "online": true,
+  "server_url": "https://mailed-events-coordination-alien.trycloudflare.com"
 }
