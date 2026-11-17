@@ -1,4 +1,4 @@
 {
-  "online": true,
-  "server_url": "https://deck-rates-drugs-functions.trycloudflare.com"
+  "online": false,
+  "server_url": ""
 }
