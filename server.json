@@ -1,4 +1,4 @@
 {
-  "online": true,
-  "server_url": "https://vaccine-chassis-reporting-returns.trycloudflare.com"
+  "online": false,
+  "server_url": ""
 }
